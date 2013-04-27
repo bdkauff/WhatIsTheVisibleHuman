@@ -35,7 +35,7 @@ app.configure(function(){
   app.use(express.static(path.join(__dirname, 'public')));
 
   // database - skipping until week 5
-  // app.db = mongoose.connect(process.env.MONGOLAB_URI);
+  //app.db = mongoose.connect(process.env.MONGOLAB_URI);
   
 });
 
