@@ -2,89 +2,145 @@
 <div id="content">
 	
 	<div class="row">
+
+		<div class="span4"></div>
+
 		<div class="span4">
-		
-		</div>
-		<div class="span4">
+
 			<h2>{{ title }}</h2>
+
 			<br>
 		</div>
+
 		<div class="span4">
 		
 		</div>		
 	</div>
 
 	<div class="row">
+
 		<div class="span5">
 
 	  		<div class="mri">
-
-	  			<div>
-	  				<img src="https://s3.amazonaws.com/Visible_Human_Images/10010.png" width=720 />
-					<h3>test1</h3>
-				</div>
-				
-	  			<div>
-	  				<img src="https://s3.amazonaws.com/Visible_Human_Images/10060.png" width=7200 />
-					<h3>test2</h3>
-				</div>
-	  			<div>
-	  				<img src="https://s3.amazonaws.com/Visible_Human_Images/10095.png" width=720 />
-					<h3>test3</h3>
-				</div>
+	  			
+		  			{{#mriImages}}
+		  			
+		  			<div>
+		  				{{#mriDescriptions}}
+		  				<img src= {{ url }} />
+		  				<p> {{ description }}</p>
+		  				{{/mriDescriptions}}
+		  			</div>
+					
+					{{/mriImages}}	
+					
 			</div>
 		</div>
   
-	  <div class="span1 offset1">
+		 <div class="span1 offset1">
+				
 			<div id="slider-vertical"></div>
-	  </div>
 
-	  <div class="span5">
+		</div>
+
+	  	<div class="span5">
 
 	  		<div class="nude">
-	  			<div>
-	  				<img src="https://s3.amazonaws.com/Model_images/test60.png" width=700 height=300 />
-					<h3>test1</h3>
-				</div>
-				
-	  			<div>
-	  				<img src="https://s3.amazonaws.com/Model_images/test40.png" width=700 height=300 />
-					<h3>test2</h3>
-				</div>
-	  			<div>
-	  				<img src="https://s3.amazonaws.com/Model_images/test20.png" width=700 height=300 />
-					<h3>test3</h3>
-				</div>	 
+		  			
+		  			{{#nudeImages}}
+		  			
+		  			<div>
+		  				<br>
+		  				<br>
+		  				<br>
+		  				<br>
+		  				<br>
+		  				<img src= {{ url }} />
+		  			</div>
+					
+					{{/nudeImages}}	 
 
 			</div>
 	  	</div>	
 		  	  	
 	</div>
 	
+	<div class="row">
 
+	  	<div class="span5">
 
+	  		<div class="mriDescriptions">
+
+	  			{{#mriDescriptions}}
+
+	  			<div>
+	  				
+	  				<p>{{description}}</p>
+
+	  			</div>
+
+				{{/mriDescriptions}}
+
+			</div>
+
+		</div>
+
+		<div class="span1 offset1"></div>
+
+		<div class="span5"></div>
+	</div>
+
+		<div class="row">
+		  	<div class="span5"></div>
+
+			<div class="span1 offset1"></div>
+
+			<div class="span5">
+				
+				<div class="nudeDescriptions">
+
+					{{#nudeDescriptions}}
+
+		  			<div>
+
+		  				<p>{{ description }}</p>
+
+		  			</div>
+
+					{{/nudeDescriptions}}
+
+				</div>
+
+			</div>
+	</div>
+	
 </div>	
 
 <script>
 
+
+
 $(document).ready(function() {
+
     console.log("Hello World");
   });
 
 $(document).ready(function(){
-		$('.mri, .nude').cycle({
-			timeout : 100,
-			speed : 300 ,
-			startingSlide : 0,
-			after : onAfter
-			
-		});
+	$('.mri, .mriDescriptions').cycle({
+		timeout : 1,
+		speed : 800 ,
+		startingSlide : 0
+		
+	});	
+	
+	$('.nude, .nudeDescriptions').cycle({
+		timeout : 1,
+		speed : 800 ,
+		startingSlide : 0
+		
 	});
+});
 
-function onAfter() { 
-    $('.nude_descriptions').html(this.p);
-         
-}
 
 
 $(function() {

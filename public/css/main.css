@@ -4,7 +4,7 @@
    Author's custom styles
    ========================================================================== */
 body{
-	color: white;
+	color: #dddddd;
 	background-color: black;
 	text-align: center;
 	font-family: georgia;
@@ -15,6 +15,13 @@ body{
 	background: #fdf5ce url(images/ui-bg_glass_100_fdf5ce_1x400.png) 50% 50% repeat-x;
 	font-weight: bold;
 	color: #000000;
+}
+
+.mriDescriptions {
+	text-align: center;
+}
+.nudeDescriptions {
+	text-align: center;
 }
 
 
