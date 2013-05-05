@@ -21,18 +21,16 @@
 
 		<div class="span5">
 
-	  		<div class="mri">
+	  		<div id="mri">
 	  			
-		  			{{#mriImages}}
-		  			
-		  			<div>
-		  				{{#mriDescriptions}}
+		  			{{#mriArray}}
+		  			<div style="width : 470px;">
+		  				
 		  				<img src= {{ url }} />
-		  				<p> {{ description }}</p>
-		  				{{/mriDescriptions}}
+		  				<h4> {{ description }}</h4>
+		  				
 		  			</div>
-					
-					{{/mriImages}}	
+					{{/mriArray}}	
 					
 			</div>
 		</div>
@@ -45,73 +43,21 @@
 
 	  	<div class="span5">
 
-	  		<div class="nude">
+	  		<div id="nude">
 		  			
-		  			{{#nudeImages}}
-		  			
-		  			<div>
-		  				<br>
-		  				<br>
-		  				<br>
-		  				<br>
-		  				<br>
-		  				<img src= {{ url }} />
+		  			{{#nudeArray}}
+		  			<div style="width:470px;">
+		  				
+		  				<img style="position:relative; top:{{offset}}px" src= {{ url }} />
+		  				
+		  				<h4  style="position:absolute; top:400px;" > {{ description }}</h4>
+		  				
 		  			</div>
-					
-					{{/nudeImages}}	 
+					{{/nudeArray}}
 
 			</div>
 	  	</div>	
 		  	  	
-	</div>
-	
-	<div class="row">
-
-	  	<div class="span5">
-
-	  		<div class="mriDescriptions">
-
-	  			{{#mriDescriptions}}
-
-	  			<div>
-	  				
-	  				<p>{{description}}</p>
-
-	  			</div>
-
-				{{/mriDescriptions}}
-
-			</div>
-
-		</div>
-
-		<div class="span1 offset1"></div>
-
-		<div class="span5"></div>
-	</div>
-
-		<div class="row">
-		  	<div class="span5"></div>
-
-			<div class="span1 offset1"></div>
-
-			<div class="span5">
-				
-				<div class="nudeDescriptions">
-
-					{{#nudeDescriptions}}
-
-		  			<div>
-
-		  				<p>{{ description }}</p>
-
-		  			</div>
-
-					{{/nudeDescriptions}}
-
-				</div>
-
-			</div>
 	</div>
 	
 </div>	
@@ -125,22 +71,18 @@ $(document).ready(function() {
     console.log("Hello World");
   });
 
-$(document).ready(function(){
-	$('.mri, .mriDescriptions').cycle({
-		timeout : 1,
-		speed : 800 ,
-		startingSlide : 0
-		
-	});	
-	
-	$('.nude, .nudeDescriptions').cycle({
-		timeout : 1,
-		speed : 800 ,
-		startingSlide : 0
-		
-	});
-});
+$(window).load(function(){
+	$('#mri, #nude').cycle({
+		timeout : 80000,
+		speed : 8000000 ,
+		startingSlide : 0,
+		backwards : true,
+		before : function (curr, next, opts) {
+    			console.log(opts.nextSlide + " of " + opts.slideCount);
+		}
+		});	
 
+});
 
 
 $(function() {
@@ -151,14 +93,15 @@ $(function() {
     max: 300,
     value: 300,
     slide: function( event, ui ) {
-      $( "#amount" ).val( ui.value );
-      console.log(ui.value);  
+    	$( "#amount" ).val( ui.value );
+    	//console.log(ui.value);
+      	$("#mri").cycle(ui.value);
+      	$("#nude").cycle(ui.value);
     }
   });
+
   $( "#amount" ).val( $( "#slider-vertical" ).slider( "value" ));
 });
-
-
 
 </script>
 

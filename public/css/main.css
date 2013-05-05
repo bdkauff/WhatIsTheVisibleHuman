@@ -23,6 +23,12 @@ body{
 .nudeDescriptions {
 	text-align: center;
 }
+{{#nudeArray}}
+.nude div img {
+	position:relative;
+	top: {{ offset }} ;
+}
+{{/nudeArray}}
 
 
 
