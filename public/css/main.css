@@ -18,9 +18,10 @@ body{
 
 #mri, #nude {
 	font-family: Times New Roman;
+}
 
-
-
+#sliderDiv {
+margin-left: 110px;
 }
 
 
