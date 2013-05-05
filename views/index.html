@@ -6,11 +6,26 @@
 <!-- Button to trigger modal -->
 	
 	 
-	<!-- Modal -->
+	<!-- Load Modal -->
+	<div id="loadModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="loadModalLabel" aria-hidden="true">
+	  <div class="modal-header">
+	    
+	    <h3 id="loadModalLabel">While we're loading...</h3>
+	  </div>
+	  <div class="modal-body">
+	    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+	  </div>
+	  <div class="modal-footer">
+	    <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+	  </div>
+	</div>
+
+	<!-- about Modal -->
+
 	<div id="aboutModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="aboutModalLabel" aria-hidden="true">
 	  <div class="modal-header">
 	    
-	    <h3 id="aboutModalLabel">Modal header</h3>
+	    <h3 id="aboutModalLabel">About The Visible Human</h3>
 	  </div>
 	  <div class="modal-body">
 	    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
@@ -25,10 +40,9 @@
 
 		<div class="span12">
 
-			<h2>{{ title }}</h2>
-			
+			<h1>{{ title }}</h1>
 			<!--MODAL BUTTON IS HERE-->
-			<a href="#aboutModal" role="button" class="btn" data-toggle="modal">About</a>
+			<a id="aboutLink" href="#aboutModal" role="button" class="btn" data-toggle="modal">ABOUT</a>
 
 			<br>
 		</div>
@@ -45,7 +59,7 @@
 		  			<div style="width : 470px; ">
 		  				
 		  				<img src= {{ url }} />
-		  				<h4> {{ description }}</h4>
+		  				<h5> {{ description }}</h5>
 		  				
 		  			</div>
 					{{/mriArray}}	
@@ -55,7 +69,7 @@
   		
 		 <div id="sliderDiv" class="span1 offset1">
 				
-			<div id="slider-vertical" style="position:relative; top:50px;"></div>
+			<div id="slider-vertical" style="position:relative; top:80px;"></div>
 
 		</div>
 		
@@ -68,7 +82,7 @@
 		  				
 		  				<img style="position:relative; top:{{offset}}px" src= {{ url }} />
 		  				
-		  				<h4  style="position:relative; top:390px;" > {{ description }}</h4>
+		  				<h5 style="position:relative; top:390px;" > {{ description }}</h5>
 		  				
 		  			</div>
 					{{/nudeArray}}
@@ -85,11 +99,12 @@
 
 
 $(document).ready(function() {
-	$('#aboutModal').modal();
+	$('#loadModal').modal();
     console.log("Hello World");
   });
 
 $(window).load(function(){
+	$('#loadModal').modal('hide');
 	$('#mri, #nude').cycle({
 		timeout : 800000,
 		speed : 80000000 ,

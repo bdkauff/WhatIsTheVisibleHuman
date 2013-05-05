@@ -5174,7 +5174,7 @@ input[type="submit"].btn.btn-mini {
   bottom: 0;
   left: 0;
   z-index: 1040;
-  background-color: #000000;
+  background-color: #dddddd;
 }
 
 .modal-backdrop.fade {
@@ -5234,6 +5234,7 @@ input[type="submit"].btn.btn-mini {
 .modal-header h3 {
   margin: 0;
   line-height: 30px;
+  color: #333333;
 }
 
 .modal-body {
@@ -5241,6 +5242,7 @@ input[type="submit"].btn.btn-mini {
   max-height: 400px;
   padding: 15px;
   overflow-y: auto;
+  color: #333333;
 }
 
 .modal-form {
@@ -5276,6 +5278,7 @@ input[type="submit"].btn.btn-mini {
 .modal-footer .btn + .btn {
   margin-bottom: 0;
   margin-left: 5px;
+  font-family: futura;
 }
 
 .modal-footer .btn-group .btn + .btn {

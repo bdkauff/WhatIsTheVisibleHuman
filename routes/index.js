@@ -3,7 +3,7 @@
  * GET home page.
  */
 
-var siteTitle = "The Visible Human";
+var siteTitle = "THE VISIBLE HUMAN";
 
 exports.index = function(req, res){
 
