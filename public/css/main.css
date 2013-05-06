@@ -9,6 +9,9 @@ body{
 	text-align: center;
 	font-family: futura;
 
+
+}
+
 }
 .ui-widget-header .ui-state-focus {
 	border: 1px solid #fbcb09;
@@ -19,6 +22,7 @@ body{
 #sliderDiv {
 margin-left: 110px;
 }
+
 
 #aboutLink {
 	font-weight: medium;
@@ -39,6 +43,7 @@ margin-left: 110px;
 }
 
 .modal-body {
+  text-align: left;
   position: relative;
   max-height: 400px;
   padding: 15px;
