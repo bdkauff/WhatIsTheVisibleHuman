@@ -25,17 +25,17 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like an x-ray\"" ,
+	 "description" : "\"looks like an x-ray\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11550.png"
 	},
 
 	{
-	 "description" : "\"Looks like an ultrasound of a baby\"" ,
+	 "description" : "\"looks like an ultrasound of a baby\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11545.png"
 	},
 
 	{
-	 "description" : "\"Gross blobs ready to fight\"" ,
+	 "description" : "\"gross blobs ready to fight\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11540.png"
 	},
 
@@ -45,7 +45,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Diseased amoebas\"" ,
+	 "description" : "\"diseased amoebas\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11530.png"
 	},
 
@@ -60,12 +60,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Two little animals\"" ,
+	 "description" : "\"two little animals\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11515.png"
 	},
 
 	{
-	 "description" : "\"Single-cell organisms dying\"" ,
+	 "description" : "\"single-cell organisms dying\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11510.png"
 	},
 
@@ -85,37 +85,37 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like kidneys\"" ,
+	 "description" : "\"looks like kidneys\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11490.png"
 	},
 
 	{
-	 "description" : "\"Two lungs\"" ,
+	 "description" : "\"two lungs\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11485.png"
 	},
 
 	{
-	 "description" : "\"Looks like two baby foot prints\"" ,
+	 "description" : "\"looks like two baby foot prints\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11480.png"
 	},
 
 	{
-	 "description" : "\"This picture looks like lungs\"" ,
+	 "description" : "\"this picture looks like lungs\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11475.png"
 	},
 
 	{
-	 "description" : "\"These are lungs\"" ,
+	 "description" : "\"these are lungs\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11470.png"
 	},
 
 	{
-	 "description" : "\"A view from the ground up of somebody's feet\"" , 
+	 "description" : "\"a view from the ground up of somebody's feet\"" , 
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11465.png"
 	},
 
 	{
-	 "description" : "\"Babies\"" ,
+	 "description" : "\"babies\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11460.png"
 	},
 
@@ -125,22 +125,22 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Kidneys\"" ,
+	 "description" : "\"kidneys\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11450.png"
 	},
 
 	{
-	 "description" : "\"The ears lit up on some animal\"" ,
+	 "description" : "\"the ears lit up on some animal\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11445.png"
 	},
 
 	{
-	 "description" : "\"Two potatoes\"" ,
+	 "description" : "\"two potatoes\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11440.png"
 	},
 
 	{
-	 "description" : "\"Looks like two teeth\"" ,
+	 "description" : "\"looks like two teeth\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11435.png"
 	},
 
@@ -150,12 +150,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Brain image\"" ,
+	 "description" : "\"brain image\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11425.png"
 	},
 
 	{
-	 "description" : "\"Two eyes staring at me\"" ,
+	 "description" : "\"two eyes staring at me\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11420.png"
 	},
 
@@ -165,27 +165,27 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Hideous dead eyes\"" ,
+	 "description" : "\"hideous dead eyes\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11410.png"
 	},
 
 	{
-	 "description" : "\"Potatoes\"" ,
+	 "description" : "\"potatoes\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11405.png"
 	},
 
 	{
-	 "description" : "\"FOOTBALL COURT\"" ,
+	 "description" : "\"football court\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11400.png"
 	},
 
 	{
-	 "description" : "\"It appears to be mashed potatoes with meatloaf\"" , 
+	 "description" : "\"it appears to be mashed potatoes with meatloaf\"" , 
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11395.png"
 	},
 
 	{
-	 "description" : "\"Cross section at someone's ankles\"" ,
+	 "description" : "\"cross section at someone's ankles\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11390.png"
 	},
 
@@ -195,42 +195,42 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Two magical crystal drops\"" ,
+	 "description" : "\"two magical crystal drops\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11380.png"
 	},
 
 	{
-	 "description" : "\"Two blob planets being pulled toward one another\"" , 
+	 "description" : "\"two blob planets being pulled toward one another\"" , 
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11375.png"
 	},
 
 	{
-	 "description" : "\"Bedbug\"" ,
+	 "description" : "\"bedbug\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11370.png"
 	},
 
 	{
-	 "description" : "\"Bedbug\"" ,
+	 "description" : "\"bedbug\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11365.png"
 	},
 
 	{
-	 "description" : "\"Earrings\"" ,
+	 "description" : "\"earrings\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11360.png"
 	},
 
 	{
-	 "description" : "\"Earrings\"" ,
+	 "description" : "\"earrings\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11355.png"
 	},
 
 	{
-	 "description" : "\"Two jellyfish\"" ,
+	 "description" : "\"two jellyfish\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11350.png"
 	},
 
 	{
-	 "description" : "\"Weird\"" ,
+	 "description" : "\"weird\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11345.png"
 	},
 
@@ -240,22 +240,22 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A uterus\"" ,
+	 "description" : "\"a uterus\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11335.png"
 	},
 
 	{
-	 "description" : "\"Jellyfish swimming in the deep sea\"" ,
+	 "description" : "\"jellyfish swimming in the deep sea\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11330.png"
 	},
 
 	{
-	 "description" : "\"Steaks\"" ,
+	 "description" : "\"steaks\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11325.png"
 	},
 
 	{
-	 "description" : "\"Either two oranges or eyeballs\"" ,
+	 "description" : "\"either two oranges or eyeballs\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11320.png"
 	},
 
@@ -265,12 +265,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Outer space\"" ,
+	 "description" : "\"outer space\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11310.png"
 	},
 
 	{
-	 "description" : "\"It looks like 2 plates of brownies\"" ,
+	 "description" : "\"it looks like 2 plates of brownies\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11305.png"
 	},
 
@@ -280,7 +280,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"These are layers of the forearms\"" ,
+	 "description" : "\"these are layers of the forearms\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11295.png"
 	},
 
@@ -290,7 +290,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"This looks like two nuts\"" ,
+	 "description" : "\"this looks like two nuts\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11285.png"
 	},
 
@@ -305,12 +305,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like two cross-sections of the same brain on a table\"" ,
+	 "description" : "\"looks like two cross-sections of the same brain on a table\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11270.png"
 	},
 
 	{
-	 "description" : "\"Steak\"" ,
+	 "description" : "\"steak\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11265.png"
 	},
 
@@ -330,7 +330,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Free-floating meat planets\"" ,
+	 "description" : "\"free-floating meat planets\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11245.png"
 	},
 
@@ -350,7 +350,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"I think it is an x-ray of two brains\"" ,
+	 "description" : "\"i think it is an x-ray of two brains\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11225.png"
 	},
 
@@ -375,7 +375,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Two images of a fetus\"" ,
+	 "description" : "\"two images of a fetus\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11200.png"
 	},
 
@@ -395,7 +395,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Brain\"" ,
+	 "description" : "\"brain\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11175.png"
 	},
 
@@ -405,7 +405,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Planets in space-time\"" ,
+	 "description" : "\"planets in space-time\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11165.png"
 	},
 
@@ -415,21 +415,21 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks dry\"" ,
+	 "description" : "\"looks dry\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11155.png"
 	},
 
 	{
-	 "description" : "\"Looks like two brains\"" ,
+	 "description" : "\"looks like two brains\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11150.png"
 	},
 
 	{
-	 "description" : "\"This is either meat or an image of a brain scan\"" ,
+	 "description" : "\"this is either meat or an image of a brain scan\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11145.png"
 	},
 	{
-	 "description" : "\"Looks like steak, I would love to know what these really are\"" ,
+	 "description" : "\"looks like steak, i would love to know what these really are\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11140.png"
 	},
 
@@ -444,7 +444,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A pair of engagement rings again\"" ,
+	 "description" : "\"a pair of engagement rings again\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11125.png"
 	},
 
@@ -454,7 +454,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A pair of engagement rings\"" ,
+	 "description" : "\"a pair of engagement rings\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11115.png"
 	},
 
@@ -464,22 +464,22 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Two handicapped individuals with lopsided brains\"" ,
+	 "description" : "\"two handicapped individuals with lopsided brains\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11105.png"
 	},
 
 	{
-	 "description" : "\"This looks like meat\"" ,
+	 "description" : "\"this looks like meat\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11100.png"
 	},
 
 	{
-	 "description" : "\"Inner view of a mouth\"" ,
+	 "description" : "\"inner view of a mouth\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11095.png"
 	},
 
 	{
-	 "description" : "\"Two idiots about to collide\"" ,
+	 "description" : "\"two idiots about to collide\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11090.png"
 	},
 
@@ -519,47 +519,47 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"These are layers of the arm\"" ,
+	 "description" : "\"these are layers of the arm\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11050.png"
 	},
 
 	{
-	 "description" : "\"Child face\"" ,
+	 "description" : "\"child face\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11045.png"
 	},
 
 	{
-	 "description" : "\"These are layers of the thighs of a human\"" ,
+	 "description" : "\"these are layers of the thighs of a human\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11040.png"
 	},
 
 	{
-	 "description" : "\"Horrible looking little steaks\"" ,
+	 "description" : "\"horrible looking little steaks\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11035.png"
 	},
 
 	{
-	 "description" : "\"This looks like a walnut cracked open & x-rayed\"" ,
+	 "description" : "\"this looks like a walnut cracked open & x-rayed\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11030.png"
 	},
 
 	{
-	 "description" : "\"Two embryos\"" ,
+	 "description" : "\"two embryos\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11025.png"
 	},
 
 	{
-	 "description" : "\"This picture looks like steak\"" ,
+	 "description" : "\"this picture looks like steak\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11020.png"
 	},
 
 	{
-	 "description" : "\"This picture looks like steak\"" ,
+	 "description" : "\"this picture looks like steak\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11015.png"
 	},
 
 	{
-	 "description" : "\"Cross section of someone's legs\"" ,
+	 "description" : "\"cross section of someone's legs\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11010.png"
 	},
 
@@ -569,7 +569,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like two hoof prints\"" ,
+	 "description" : "\"looks like two hoof prints\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/11000.png"
 	},
 
@@ -579,12 +579,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Brain Scan\"" ,
+	 "description" : "\"brain scan\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10990.png"
 	},
 
 	{
-	 "description" : "\"Cookies and dog paw prints\"" ,
+	 "description" : "\"cookies and dog paw prints\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10985.png"
 	},
 
@@ -594,17 +594,17 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Cross section of someone's thighs\"" ,
+	 "description" : "\"cross section of someone's thighs\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10975.png"
 	},
 
 	{
-	 "description" : "\"Two little round steaks\"" ,
+	 "description" : "\"two little round steaks\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10970.png"
 	},
 
 	{
-	 "description" : "\"Looks like a mitten\"" ,
+	 "description" : "\"looks like a mitten\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10965.png"
 	},
 
@@ -614,7 +614,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like Bear Paws\"" ,
+	 "description" : "\"looks like bear paws\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10955.png"
 	},
 
@@ -624,12 +624,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Steaks\"" ,
+	 "description" : "\"steaks\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10945.png"
 	},
 
 	{
-	 "description" : "\"It looks like the inside of two stomachs\"" ,
+	 "description" : "\"it looks like the inside of two stomachs\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10940.png"
 	},
 
@@ -639,7 +639,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like a pair of breasts\"" ,
+	 "description" : "\"looks like a pair of breasts\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10930.png"
 	},
 
@@ -649,22 +649,22 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Steak medallions\"" ,
+	 "description" : "\"steak medallions\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10920.png"
 	},
 
 	{
-	 "description" : "\"Two thighs chopped in half and viewed from the top\"" ,
+	 "description" : "\"two thighs chopped in half and viewed from the top\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10915.png"
 	},
 
 	{
-	 "description" : "\"Two steaks\"" ,
+	 "description" : "\"two steaks\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10910.png"
 	},
 
 	{
-	 "description" : "\"Two little pieces of beef\"" ,
+	 "description" : "\"two little pieces of beef\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10905.png"
 	},
 
@@ -679,22 +679,22 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Cross section of someone's thighs\"" ,
+	 "description" : "\"cross section of someone's thighs\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10890.png"
 	},
 
 	{
-	 "description" : "\"It looks like meat to me.\"" ,
+	 "description" : "\"it looks like meat to me.\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10885.png"
 	},
 
 	{
-	 "description" : "\"Brain\"" ,
+	 "description" : "\"brain\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10880.png"
 	},
 
 	{
-	 "description" : "\"An X-Ray of breasts\"" ,
+	 "description" : "\"an x-ray of breasts\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10875.png"
 	},
 
@@ -719,12 +719,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like meat\"" ,
+	 "description" : "\"looks like meat\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10850.png"
 	},
 
 	{
-	 "description" : "\"Two filet Mignons\"" ,
+	 "description" : "\"two filet mignons\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10840.png"
 	},
 
@@ -734,12 +734,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Some sort of X-Ray of breasts\"" ,
+	 "description" : "\"some sort of x-ray of breasts\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10830.png"
 	},
 
 	{
-	 "description" : "\"It looks like two hearts with an alien head coming out from the bottom\"" ,
+	 "description" : "\"it looks like two hearts with an alien head coming out from the bottom\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10825.png"
 	},
 
@@ -749,7 +749,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like either lungs or breasts\"" ,
+	 "description" : "\"looks like either lungs or breasts\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10815.png"
 	},
 
@@ -769,37 +769,37 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Some rotted pelvic area\"" ,
+	 "description" : "\"some rotted pelvic area\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10795.png"
 	},
 
 	{
-	 "description" : "\"A diseased steak\"" ,
+	 "description" : "\"a diseased steak\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10790.png"
 	},
 
 	{
-	 "description" : "\"A diseased animal behind\"" ,
+	 "description" : "\"a diseased animal behind\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10785.png"
 	},
 
 	{
-	 "description" : "\"Two pieces of meat\"" ,
+	 "description" : "\"two pieces of meat\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10780.png"
 	},
 
 	{
-	 "description" : "\"This looks like a steak\"" ,
+	 "description" : "\"this looks like a steak\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10775.png"
 	},
 
 	{
-	 "description" : "\"Looks like a slice of the hip area on a human.\"" ,
+	 "description" : "\"looks like a slice of the hip area on a human.\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10770.png"
 	},
 
 	{
-	 "description" : "\"BUTTERFLY\"" ,
+	 "description" : "\"butterfly\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10765.png"
 	},
 
@@ -814,7 +814,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Diseased pelvis\"" ,
+	 "description" : "\"diseased pelvis\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10750.png"
 	},
 
@@ -824,7 +824,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like the cross section of someone's pelvic area\"" ,
+	 "description" : "\"looks like the cross section of someone's pelvic area\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10740.png"
 	},
 
@@ -834,17 +834,17 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"This looks like a scan of a person top-down\"",
+	 "description" : "\"this looks like a scan of a person top-down\"",
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10730.png"
 	},
 
 	{
-	 "description" : "\"Meat\"" ,
+	 "description" : "\"meat\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10725.png"
 	},
 
 	 {
-	 "description" : "\"Looks like the face of an ant with two arms about to put stuff in its mouth\"" ,
+	 "description" : "\"looks like the face of an ant with two arms about to put stuff in its mouth\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10720.png"
 	},
 
@@ -854,12 +854,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A cut of steak\"" ,
+	 "description" : "\"a cut of steak\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10710.png"
 	},
 
 	{
-	 "description" : "\"A broad leaf\"" ,
+	 "description" : "\"a broad leaf\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10705.png"
 	},
 
@@ -884,22 +884,22 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"MRI of someones hips\"" ,
+	 "description" : "\"mri of someones hips\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10680.png"
 	},
 
 	{
-	 "description" : "\"A fatty cut of steak with two small pieces on the side\"" ,
+	 "description" : "\"a fatty cut of steak with two small pieces on the side\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10675.png"
 	},
 
 	{
-	 "description" : "\"Gross\"" ,
+	 "description" : "\"gross\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10670.png"
 	},
 
 	{
-	 "description" : "\"Diseased pelvis\"" ,
+	 "description" : "\"diseased pelvis\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10665.png"
 	},
 
@@ -909,7 +909,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"An MRI kind of view of someone's pelvic region\"" ,
+	 "description" : "\"an mri kind of view of someone's pelvic region\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10655.png"
 	},
 
@@ -919,17 +919,17 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A large headed cartoon character\"" ,
+	 "description" : "\"a large headed cartoon character\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10645.png"
 	},
 
 	{
-	 "description" : "\"Disgusting cartilage\"" ,
+	 "description" : "\"disgusting cartilage\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10640.png"
 	},
 
 	{
-	 "description" : "\"Scan of pelvic bone region\"" ,
+	 "description" : "\"scan of pelvic bone region\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10635.png"
 	},
 
@@ -944,22 +944,22 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"This is a layer of a monkey's head, with ears on the sides\""  ,
+	 "description" : "\"this is a layer of a monkey's head, with ears on the sides\""  ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10620.png"
 	},
 
 	{
-	 "description" : "\"Looks like crab legs hugging the stuff in the middle\"" ,
+	 "description" : "\"looks like crab legs hugging the stuff in the middle\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10615.png"
 	},
 
 	{
-	 "description" : "\"This is a layer of the brain and ears\"" ,
+	 "description" : "\"this is a layer of the brain and ears\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10610.png"
 	},
 
 	{
-	 "description" : "\"Creeped out\"" ,
+	 "description" : "\"creeped out\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10605.png"
 	},
 
@@ -974,7 +974,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"This looks like a top-down view of a monkey's brain\""  ,
+	 "description" : "\"this looks like a top-down view of a monkey's brain\""  ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10590.png"
 	},
 
@@ -994,17 +994,17 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"This looks like a monkey\"" ,
+	 "description" : "\"this looks like a monkey\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10570.png"
 	},
 
 	{
-	 "description" : "\"Looks strange\"" ,
+	 "description" : "\"looks strange\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10565.png"
 	},
 
 	{
-	 "description" : "\"It looks like meat, maybe a cross section of a turkey\"" , 
+	 "description" : "\"it looks like meat, maybe a cross section of a turkey\"" , 
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10560.png"
 	},
 
@@ -1014,32 +1014,32 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"MRI of someones torso with the arms included\"" ,
+	 "description" : "\"mri of someones torso with the arms included\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10545.png"
 	},
 
 	{
-	 "description" : "\"A monkey\"" ,
+	 "description" : "\"a monkey\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10540.png"
 	},
 
 	{
-	 "description" : "\"FACE\"" ,
+	 "description" : "\"face\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10535.png"
 	},
 
 	{
-	 "description" : "\"Looks like the insides of a person\"" ,
+	 "description" : "\"looks like the insides of a person\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10530.png"
 	},
 
 	{
-	 "description" : "\"This looks like Yoda\"" ,
+	 "description" : "\"this looks like yoda\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10525.png"
 	},
 
 	{
-	 "description" : "\"The cross section of someone's arms and stomach just above their intestines\"" ,
+	 "description" : "\"the cross section of someone's arms and stomach just above their intestines\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10520.png"
 	},
 
@@ -1054,17 +1054,17 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"This picture looks like a pizza\"" ,
+	 "description" : "\"this picture looks like a pizza\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10505.png"
 	},
 
 	{
-	 "description" : "\"I thought it looked like a monkey made out of pancakes\""  ,
+	 "description" : "\"i thought it looked like a monkey made out of pancakes\""  ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10500.png"
 	},
 
 	{
-	 "description" : "\"A reproductive system\"" ,
+	 "description" : "\"a reproductive system\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10495.png"
 	},
 
@@ -1079,12 +1079,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Cross section of a person at their stomach and arms\"" ,
+	 "description" : "\"cross section of a person at their stomach and arms\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10480.png"
 	},
 
 	{
-	 "description" : "\"Human face with ears\"" ,
+	 "description" : "\"human face with ears\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10475.png"
 	},
 
@@ -1094,7 +1094,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A reproductive system\"" ,
+	 "description" : "\"a reproductive system\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10465.png"
 	},
 
@@ -1104,37 +1104,37 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A diseased mouse\"" ,
+	 "description" : "\"a diseased mouse\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10455.png"
 	},
 
 	{
-	 "description" : "\"Looks like a person\"" ,
+	 "description" : "\"looks like a person\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10450.png"
 	},
 
 	{
-	 "description" : "\"A mean little animal with his fists up ready to fight\""  ,
+	 "description" : "\"a mean little animal with his fists up ready to fight\""  ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10445.png"
 	},
 
 	{
-	 "description" : "\"Body cut-away\"" ,
+	 "description" : "\"body cut-away\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10440.png"
 	},
 
 	{
-	 "description" : "\"This looks like the shape of a monkey's head\"" ,
+	 "description" : "\"this looks like the shape of a monkey's head\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10435.png"
 	},
 
 	{
-	 "description" : "\"Head of a Monkey\"" ,
+	 "description" : "\"head of a monkey\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10430.png"
 	},
 
 	{
-	 "description" : "\"A monkey face\"" ,
+	 "description" : "\"a monkey face\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10425.png"
 	},
 
@@ -1144,12 +1144,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A goofy diseased rat with missing teeth and one eye\"" ,
+	 "description" : "\"a goofy diseased rat with missing teeth and one eye\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10410.png"
 	},
 
 	{
-	 "description" : "\"Monkey\"" ,
+	 "description" : "\"monkey\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10405.png"
 	},
 
@@ -1159,7 +1159,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A man with large ears, and a big nose\"" ,
+	 "description" : "\"a man with large ears, and a big nose\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10395.png"
 	},
 
@@ -1174,12 +1174,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like a fat man--you can see the ears and the eyes\"" ,
+	 "description" : "\"looks like a fat man--you can see the ears and the eyes\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10375.png"
 	},
 
 	{
-	 "description" : "\"Insides\"" ,
+	 "description" : "\"insides\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10370.png"
 	},
 
@@ -1189,7 +1189,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Looks like a monkey's head\"" ,
+	 "description" : "\"looks like a monkey's head\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10360.png"
 	},
 
@@ -1199,17 +1199,17 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A caved in rat skull\"" ,
+	 "description" : "\"a caved in rat skull\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10350.png"
 	},
 
 	{
-	 "description" : "\"This picture looks like steak\"" ,
+	 "description" : "\"this picture looks like steak\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10345.png"
 	},
 
 	{
-	 "description" : "\"A squatty looking mech (like the robots of transformers)\"" ,
+	 "description" : "\"a squatty looking mech (like the robots of transformers)\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10340.png"
 	},
 
@@ -1224,22 +1224,22 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A rat with its face lopped off\"" ,
+	 "description" : "\"a rat with its face lopped off\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10325.png"
 	},
 
 	{
-	 "description" : "\"Cross section of a person just below their neck\"" , 
+	 "description" : "\"cross section of a person just below their neck\"" , 
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10320.png"
 	},
 
 	{
-	 "description" : "\"Twin babies in the womb (fetus).\"" ,
+	 "description" : "\"twin babies in the womb (fetus).\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10315.png"
 	},
 
 	{
-	 "description" : "\"Cross section of a person just below their shoulders\"" ,
+	 "description" : "\"cross section of a person just below their shoulders\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10310.png"
 	},
 
@@ -1254,27 +1254,27 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"An ancient drawing of a mechanism by primitive people that they did not understand\"" ,
+	 "description" : "\"an ancient drawing of a mechanism by primitive people that they did not understand\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10295.png"
 	},
 
 	{
-	 "description" : "\"Chicken piece\"" ,
+	 "description" : "\"chicken piece\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10290.png"
 	},
 
 	{
-	 "description" : "\"This is a layer of the human body at around the waist area\""  ,
+	 "description" : "\"this is a layer of the human body at around the waist area\""  ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10285.png"
 	},
 
 	{
-	 "description" : "\"A cavity\"" ,
+	 "description" : "\"a cavity\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10280.png"
 	},
 
 	{
-	 "description" : "\"The front view of a tarantula's fangs\"" ,
+	 "description" : "\"the front view of a tarantula's fangs\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10275.png"
 	},
 
@@ -1289,12 +1289,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Some diseased pelvis region\"" ,
+	 "description" : "\"some diseased pelvis region\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10260.png"
 	},
 
 	{
-	 "description" : "\"Looks like the face of a fly in the middle\"" ,
+	 "description" : "\"looks like the face of a fly in the middle\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10255.png"
 	},
 
@@ -1304,7 +1304,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Cross section of a person's shoulders from above\"" , 
+	 "description" : "\"cross section of a person's shoulders from above\"" , 
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10245.png"
 	},
 
@@ -1314,7 +1314,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Chicken piece\"" ,
+	 "description" : "\"chicken piece\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10235.png"
 	},
 
@@ -1324,7 +1324,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Evil alien\"" ,
+	 "description" : "\"evil alien\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10225.png"
 	},
 
@@ -1339,27 +1339,27 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"This looks like a lateral slice of an organ\"", 
+	 "description" : "\"this looks like a lateral slice of an organ\"", 
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10210.png"
 	},
 
 	{
-	 "description" : "\"A bloody bat\"" ,
+	 "description" : "\"a bloody bat\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10205.png"
 	},
 
 	{
-	 "description" : "\"Part of a bird\"" ,
+	 "description" : "\"part of a bird\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10200.png"
 	},
 
 	{
-	 "description" : "\"I think it looks like an x-ray of an animal\"", 
+	 "description" : "\"i think it looks like an x-ray of an animal\"", 
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10195.png"
 	},
 
 	{
-	 "description" : "\"An evil reptilian out of disguise and ready for some murder and slaughter\"" ,
+	 "description" : "\"an evil reptilian out of disguise and ready for some murder and slaughter\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10190.png"
 	},
 
@@ -1384,12 +1384,12 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Inside of a human skull\"" ,
+	 "description" : "\"inside of a human skull\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10165.png"
 	},
 
 	{
-	 "description" : "\"Sort of looks like the skull of a reptile\"" ,
+	 "description" : "\"sort of looks like the skull of a reptile\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10160.png"
 	},
 
@@ -1404,7 +1404,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A bone\"" ,
+	 "description" : "\"a bone\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10145.png"
 	},
 
@@ -1414,7 +1414,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A skull chopped in half\"" ,
+	 "description" : "\"a skull chopped in half\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10135.png"
 	},
 
@@ -1429,37 +1429,37 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Devil\"" ,
+	 "description" : "\"devil\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10120.png"
 	},
 
 	{
-	 "description" : "\"A skull\"" ,
+	 "description" : "\"a skull\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10115.png"
 	},
 
 	{
-	 "description" : "\"Human Brain\"" ,
+	 "description" : "\"human brain\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10110.png"
 	},
 
 	{
-	 "description" : "\"This looks like art\"" ,
+	 "description" : "\"this looks like art\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10105.png"
 	},
 
 	{
-	 "description" : "\"This looks like a scan of a person's head from the bottom up.\"" ,
+	 "description" : "\"this looks like a scan of a person's head from the bottom up.\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10100.png"
 	},
 
 	{
-	 "description" : "\"This is a strange view of a layer of a human head, with eyes and nose\"" ,
+	 "description" : "\"this is a strange view of a layer of a human head, with eyes and nose\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10095.png"
 	},
 
 	{
-	 "description" : "\"I think an x-ray of an insect\"" ,
+	 "description" : "\"i think an x-ray of an insect\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10090.png"
 	},
 
@@ -1469,17 +1469,17 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"Brain scan\"" ,
+	 "description" : "\"brain scan\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10080.png"
 	},
 
 	{
-	 "description" : "\"A brain scan\"" ,
+	 "description" : "\"a brain scan\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10075.png"
 	},
 
 	{
-	 "description" : "\"Looks like  a brain\"" ,
+	 "description" : "\"looks like  a brain\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10070.png"
 	},
 
@@ -1494,17 +1494,17 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"A brain\"" ,
+	 "description" : "\"a brain\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10055.png"
 	},
 
 	{
-	 "description" : "\"An image of a brain scan\"" ,
+	 "description" : "\"an image of a brain scan\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10050.png"
 	},
 
 	{
-	 "description" : "\"A shot of the human brain\"" ,
+	 "description" : "\"a shot of the human brain\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10045.png"
 	},
 
@@ -1524,7 +1524,7 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"It looks like a brain\"" ,
+	 "description" : "\"it looks like a brain\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10025.png"
 	},
 
@@ -1534,17 +1534,17 @@ var mri_array = [
 	},
 
 	{
-	 "description" : "\"It looks like a tiny egg with an inner egg inside it.\"" ,
+	 "description" : "\"it looks like a tiny egg with an inner egg inside it.\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10015.png"
 	},
 
 	{
-	 "description" : "\"A face of a bird\"" ,
+	 "description" : "\"a face of a bird\"" ,
 	 "url" : "https://s3.amazonaws.com/Visible_Human_Images/10010.png"
 	},
 
 	{
-	"description" : "\"Looks like a pit of a plum\"" ,
+	"description" : "\"looks like a pit of a plum\"" ,
 	"url" : "https://s3.amazonaws.com/Visible_Human_Images/10005.png"
 	}
 
@@ -1567,85 +1567,85 @@ var nude_array = [
 
 	{
 		"offset" :   "377.5",
-		"description" : "\"This is the big toe of a human's left foot\"",
+		"description" : "\"this is the big toe of a human's left foot\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test152.png"
 	}, 
 
 	{
 		"offset" :   "377.5",
-		"description" : "\"This is the big toe of a human's left foot\"",
+		"description" : "\"this is the big toe of a human's left foot\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test152.png"
 	}, 
 
 	{
 		"offset" :   "375",
-		"description" : "\"This is a picture of the tip of a human's left foot\"",
+		"description" : "\"this is a picture of the tip of a human's left foot\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test151.png"
 	}, 
 
 	{
 		"offset" :   "375",
-		"description" : "\"This is a picture of the tip of a human's left foot\"",
+		"description" : "\"this is a picture of the tip of a human's left foot\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test151.png"
 	}, 
 
 	{
 		"offset" :   "372.5",
-		"description" : "\"Big Toe, feet\"",
+		"description" : "\"big toe, feet\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test150.png"
 	}, 
 
 	{
 		"offset" :   "372.5",
-		"description" : "\"Big Toe, feet\"",
+		"description" : "\"big toe, feet\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test150.png"
 	}, 
 
 	{
 		"offset" :   "370",
-		"description" : "\"FEET AND NAILS OF MEN\"",
+		"description" : "\"feet and nails of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test149.png"
 	}, 
 
 	{
 		"offset" :   "370",
-		"description" : "\"FEET AND NAILS OF MEN\"",
+		"description" : "\"feet and nails of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test149.png"
 	}, 
 
 	{
 		"offset" :   "367.5",
-		"description" : "\"These are the tips of two feet of a human\"",
+		"description" : "\"these are the tips of two feet of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test148.png"
 	}, 
 
 	{
 		"offset" :   "367.5",
-		"description" : "\"These are the tips of two feet of a human\"",
+		"description" : "\"these are the tips of two feet of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test148.png"
 	}, 
 
 	{
 		"offset" :  "365" ,
-		"description" : "\"FEET\"",
+		"description" : "\"feet\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test147.png"
 	}, 
 
 	{
 		"offset" :  "365" ,
-		"description" : "\"FEET\"",
+		"description" : "\"feet\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test147.png"
 	}, 
 
 	{
 		"offset" :  "362.5" ,
-		"description" : "\"Someone's hand\"",
+		"description" : "\"someone's hand\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test146.png"
 	}, 
 
 	{
 		"offset" :  "362.5" ,
-		"description" : "\"Someone's hand\"",
+		"description" : "\"someone's hand\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test146.png"
 	}, 
 
@@ -1687,13 +1687,13 @@ var nude_array = [
 
 	{
 		"offset" :   "352.5",
-		"description" : "\"MEN'S FEET\"",
+		"description" : "\"men's feet\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test142.png"
 	}, 
 
 	{
 		"offset" :  "352.5" ,
-		"description" : "\"MEN'S FEET\"",
+		"description" : "\"men's feet\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test142.png"
 	}, 
 
@@ -1711,13 +1711,13 @@ var nude_array = [
 
 	{
 		"offset" :   "347.5",
-		"description" : "\"BARE LEGS OF MEN\"",
+		"description" : "\"bare legs of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test140.png"
 	}, 
 
 	{
 		"offset" :  "347.5" ,
-		"description" : "\"BARE LEGS OF MEN\"",
+		"description" : "\"bare legs of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test140.png"
 	}, 
 
@@ -1747,25 +1747,25 @@ var nude_array = [
 
 	{
 		"offset" :   "340",
-		"description" : "\"These are parts of the forearms of a person\"",
+		"description" : "\"these are parts of the forearms of a person\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test137.png"
 	}, 
 
 	{
 		"offset" :  "340" ,
-		"description" : "\"These are parts of the forearms of a person\"",
+		"description" : "\"these are parts of the forearms of a person\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test137.png"
 	}, 
 
 	{
 		"offset" :  "337.5" ,
-		"description" : "\"These are the forearms of a human\"",
+		"description" : "\"these are the forearms of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test136.png"
 	}, 
 
 	{
 		"offset" :  "337.5" ,
-		"description" : "\"These are the forearms of a human\"",
+		"description" : "\"these are the forearms of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test136.png"
 	}, 
 
@@ -1783,37 +1783,37 @@ var nude_array = [
 
 	{
 		"offset" :  "332.5" ,
-		"description" : "\"These are the lower areas of a person's legs\"",
+		"description" : "\"these are the lower areas of a person's legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test134.png"
 	}, 
 
 	{
 		"offset" :  "332.5" ,
-		"description" : "\"These are the lower areas of a person's legs\"",
+		"description" : "\"these are the lower areas of a person's legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test134.png"
 	}, 
 
 	{
 		"offset" :   "330",
-		"description" : "\"These are the calves of a human\"",
+		"description" : "\"these are the calves of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test133.png"
 	}, 
 
 	{
 		"offset" :  "330" ,
-		"description" : "\"These are the calves of a human\"",
+		"description" : "\"these are the calves of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test133.png"
 	}, 
 
 	{
 		"offset" :  "327.5" ,
-		"description" : "\"These are the calves of a human\"",
+		"description" : "\"these are the calves of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test132.png"
 	}, 
 
 	{
 		"offset" :  "327.5" ,
-		"description" : "\"These are the calves of a human\"",
+		"description" : "\"these are the calves of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test132.png"
 	}, 
 
@@ -1855,25 +1855,25 @@ var nude_array = [
 
 	{
 		"offset" :   "317.5",
-		"description" : "\"Curious  I see what looks like a couple of legs  Whose legs are the?\"",
+		"description" : "\"curious  i see what looks like a couple of legs  whose legs are the?\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test128.png"
 	}, 
 
 	{
 		"offset" :   "317.5",
-		"description" : "\"Curious  I see what looks like a couple of legs  Whose legs are the?\"",
+		"description" : "\"curious  i see what looks like a couple of legs  whose legs are the?\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test128.png"
 	}, 
 
 	{
 		"offset" :   "315",
-		"description" : "\"These are the forearms of a person\"",
+		"description" : "\"these are the forearms of a person\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test127.png"
 	}, 
 
 	{
 		"offset" :  "315" ,
-		"description" : "\"These are the forearms of a person\"",
+		"description" : "\"these are the forearms of a person\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test127.png"
 	}, 
 
@@ -1903,13 +1903,13 @@ var nude_array = [
 
 	{
 		"offset" :  "307.5" ,
-		"description" : "\"A man's calves\"",
+		"description" : "\"a man's calves\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test124.png"
 	}, 
 
 	{
 		"offset" :  "307.5" ,
-		"description" : "\"A man's calves\"",
+		"description" : "\"a man's calves\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test124.png"
 	}, 
 
@@ -1951,13 +1951,13 @@ var nude_array = [
 
 	{
 		"offset" :  "297.5" ,
-		"description" : "\"These are the thighs of a male\"",
+		"description" : "\"these are the thighs of a male\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test120.png"
 	}, 
 
 	{
 		"offset" :  "297.5" ,
-		"description" : "\"These are the thighs of a male\"",
+		"description" : "\"these are the thighs of a male\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test120.png"
 	}, 
 
@@ -2011,37 +2011,37 @@ var nude_array = [
 
 	{
 		"offset" :   "285",
-		"description" : "\"MEN'S LEGS\"",
+		"description" : "\"men's legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test115.png"
 	}, 
 
 	{
 		"offset" :   "285",
-		"description" : "\"MEN'S LEGS\"",
+		"description" : "\"men's legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test115.png"
 	}, 
 
 	{
 		"offset" :  "282.5" ,
-		"description" : "\"LEGS OF MEN\"",
+		"description" : "\"legs of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test114.png"
 	}, 
 
 	{
 		"offset" :  "282.5" ,
-		"description" : "\"LEGS OF MEN\"",
+		"description" : "\"legs of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test114.png"
 	}, 
 
 	{
 		"offset" :  "280" ,
-		"description" : "\"MEN'S LEGS\"",
+		"description" : "\"men's legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test113.png"
 	}, 
 
 	{
 		"offset" :  "280" ,
-		"description" : "\"MEN'S LEGS\"",
+		"description" : "\"men's legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test113.png"
 	}, 
 
@@ -2071,13 +2071,13 @@ var nude_array = [
 
 	{
 		"offset" :  "272.5" ,
-		"description" : "\"These are parts of two human legs\"",
+		"description" : "\"these are parts of two human legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test110.png"
 	}, 
 
 	{
 		"offset" :  "272.5" ,
-		"description" : "\"These are parts of two human legs\"",
+		"description" : "\"these are parts of two human legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test110.png"
 	}, 
 
@@ -2107,13 +2107,13 @@ var nude_array = [
 
 	{
 		"offset" :  "265" ,
-		"description" : "\"These are the thighs of human legs\"",
+		"description" : "\"these are the thighs of human legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test107.png"
 	}, 
 
 	{
 		"offset" :  "265" ,
-		"description" : "\"These are the thighs of human legs\"",
+		"description" : "\"these are the thighs of human legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test107.png"
 	}, 
 
@@ -2143,49 +2143,49 @@ var nude_array = [
 
 	{
 		"offset" :  "257.5" ,
-		"description" : "\"These are the thighs of a human\"",
+		"description" : "\"these are the thighs of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test104.png"
 	}, 
 
 	{
 		"offset" :  "257.5" ,
-		"description" : "\"These are the thighs of a human\"",
+		"description" : "\"these are the thighs of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test104.png"
 	}, 
 
 	{
 		"offset" :  "255" ,
-		"description" : "\"These are human thighs\"",
+		"description" : "\"these are human thighs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test103.png"
 	}, 
 
 	{
 		"offset" :  "255" ,
-		"description" : "\"These are human thighs\"",
+		"description" : "\"these are human thighs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test103.png"
 	}, 
 
 	{
 		"offset" :  "252.5" ,
-		"description" : "\"These are the upper thighs of a person\"",
+		"description" : "\"these are the upper thighs of a person\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test102.png"
 	}, 
 
 	{
 		"offset" :  "252.5" ,
-		"description" : "\"These are the upper thighs of a person\"",
+		"description" : "\"these are the upper thighs of a person\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test102.png"
 	}, 
 
 	{
 		"offset" :  "250" ,
-		"description" : "\"This is the knee area of two human legs\"",
+		"description" : "\"this is the knee area of two human legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test101.png"
 	}, 
 
 	{
 		"offset" :  "250" ,
-		"description" : "\"This is the knee area of two human legs\"",
+		"description" : "\"this is the knee area of two human legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test101.png"
 	}, 
 
@@ -2203,13 +2203,13 @@ var nude_array = [
 
 	{
 		"offset" :  "245" ,
-		"description" : "\"LEGS OF MEN\"",
+		"description" : "\"legs of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test99.png"
 	}, 
 
 	{
 		"offset" :  "245" ,
-		"description" : "\"LEGS OF MEN\"",
+		"description" : "\"legs of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test99.png"
 	}, 
 
@@ -2239,13 +2239,13 @@ var nude_array = [
 
 	{
 		"offset" :  "237.5" ,
-		"description" : "\"I think it looks like someone's legs\"",
+		"description" : "\"i think it looks like someone's legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test96.png"
 	}, 
 
 	{
 		"offset" :  "237.5" ,
-		"description" : "\"I think it looks like someone's legs\"",
+		"description" : "\"i think it looks like someone's legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test96.png"
 	}, 
 
@@ -2275,13 +2275,13 @@ var nude_array = [
 
 	{
 		"offset" :  "230" ,
-		"description" : "\"This is a picture of someone's thighs\"",
+		"description" : "\"this is a picture of someone's thighs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test93.png"
 	}, 
 
 	{
 		"offset" :  "230" ,
-		"description" : "\"This is a picture of someone's thighs\"",
+		"description" : "\"this is a picture of someone's thighs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test93.png"
 	}, 
 
@@ -2311,25 +2311,25 @@ var nude_array = [
 
 	{
 		"offset" :  "222.5" ,
-		"description" : "\"These are the thighs of a human\"",
+		"description" : "\"these are the thighs of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test90.png"
 	}, 
 
 	{
 		"offset" :  "222.5" ,
-		"description" : "\"These are the thighs of a human\"",
+		"description" : "\"these are the thighs of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test90.png"
 	}, 
 
 	{
 		"offset" :  "220" ,
-		"description" : "\"Pair of legs\"",
+		"description" : "\"pair of legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test89.png"
 	}, 
 
 	{
 		"offset" :  "220" ,
-		"description" : "\"Pair of legs\"",
+		"description" : "\"pair of legs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test89.png"
 	}, 
 
@@ -2359,25 +2359,25 @@ var nude_array = [
 
 	{
 		"offset" :  "212.5" ,
-		"description" : "\"A nude man's upper thighs\"",
+		"description" : "\"a nude man's upper thighs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test86.png"
 	}, 
 
 	{
 		"offset" :  "212.5" ,
-		"description" : "\"A nude man's upper thighs\"",
+		"description" : "\"a nude man's upper thighs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test86.png"
 	}, 
 
 	{
 		"offset" :  "210" ,
-		"description" : "\"These are three fingers of a person's right hand and his upper thighs\"",
+		"description" : "\"these are three fingers of a person's right hand and his upper thighs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test85.png"
 	}, 
 
 	{
 		"offset" :  "210" ,
-		"description" : "\"These are three fingers of a person's right hand and his upper thighs\"",
+		"description" : "\"these are three fingers of a person's right hand and his upper thighs\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test85.png"
 	}, 
 
@@ -2419,13 +2419,13 @@ var nude_array = [
 
 	{
 		"offset" :  "200" ,
-		"description" : "\"This is the groin area of a man, his right hand, and his left hand resting on his hip\"",
+		"description" : "\"this is the groin area of a man, his right hand, and his left hand resting on his hip\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test81.png"
 	}, 
 
 	{
 		"offset" :  "200" ,
-		"description" : "\"This is the groin area of a man, his right hand, and his left hand resting on his hip\"",
+		"description" : "\"this is the groin area of a man, his right hand, and his left hand resting on his hip\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test81.png"
 	}, 
 
@@ -2479,13 +2479,13 @@ var nude_array = [
 
 	{
 		"offset" :  "187.5" ,
-		"description" : "\"This is a man's groin area, with his hands resting near his hips\"",
+		"description" : "\"this is a man's groin area, with his hands resting near his hips\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test76.png"
 	}, 
 
 	{
 		"offset" :  "187.5" ,
-		"description" : "\"This is a man's groin area, with his hands resting near his hips\"",
+		"description" : "\"this is a man's groin area, with his hands resting near his hips\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test76.png"
 	}, 
 
@@ -2515,13 +2515,13 @@ var nude_array = [
 
 	{
 		"offset" :  "180" ,
-		"description" : "\"This is the groin area of a male human and his right wrist and left hand\"",
+		"description" : "\"this is the groin area of a male human and his right wrist and left hand\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test73.png"
 	}, 
 
 	{
 		"offset" :  "180" ,
-		"description" : "\"This is the groin area of a male human and his right wrist and left hand\"",
+		"description" : "\"this is the groin area of a male human and his right wrist and left hand\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test73.png"
 	}, 
 
@@ -2551,13 +2551,13 @@ var nude_array = [
 
 	{
 		"offset" :  "172.5" ,
-		"description" : "\"Kind of grossed out  Looks like someone's lower back and I can see a lot of dark spots\"",
+		"description" : "\"kind of grossed out  looks like someone's lower back and i can see a lot of dark spots\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test70.png"
 	}, 
 
 	{
 		"offset" :  "172.5" ,
-		"description" : "\"Kind of grossed out  Looks like someone's lower back and I can see a lot of dark spots\"",
+		"description" : "\"kind of grossed out  looks like someone's lower back and i can see a lot of dark spots\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test70.png"
 	}, 
 
@@ -2587,13 +2587,13 @@ var nude_array = [
 
 	{
 		"offset" :  "165" ,
-		"description" : "\"This is the shaved pelvic area of a man along with parts of his forearms\"",
+		"description" : "\"this is the shaved pelvic area of a man along with parts of his forearms\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test67.png"
 	}, 
 
 	{
 		"offset" :  "165" ,
-		"description" : "\"This is the shaved pelvic area of a man along with parts of his forearms\"",
+		"description" : "\"this is the shaved pelvic area of a man along with parts of his forearms\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test67.png"
 	}, 
 
@@ -2611,13 +2611,13 @@ var nude_array = [
 
 	{
 		"offset" :  "160" ,
-		"description" : "\"This is the lower back of a person and the backs of his forearms\"",
+		"description" : "\"this is the lower back of a person and the backs of his forearms\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test65.png"
 	}, 
 
 	{
 		"offset" :  "160" ,
-		"description" : "\"This is the lower back of a person and the backs of his forearms\"",
+		"description" : "\"this is the lower back of a person and the backs of his forearms\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test65.png"
 	}, 
 
@@ -2647,13 +2647,13 @@ var nude_array = [
 
 	{
 		"offset" :  "152.5" ,
-		"description" : "\"BARE BODY OF MEN\"",
+		"description" : "\"bare body of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test62.png"
 	}, 
 
 	{
 		"offset" :  "152.5" ,
-		"description" : "\"BARE BODY OF MEN\"",
+		"description" : "\"bare body of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test62.png"
 	}, 
 
@@ -2683,13 +2683,13 @@ var nude_array = [
 
 	{
 		"offset" :  "145" ,
-		"description" : "\"This is the shaved chest of a man and his biceps\"",
+		"description" : "\"this is the shaved chest of a man and his biceps\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test59.png"
 	}, 
 
 	{
 		"offset" :  "145" ,
-		"description" : "\"This is the shaved chest of a man and his biceps\"",
+		"description" : "\"this is the shaved chest of a man and his biceps\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test59.png"
 	}, 
 
@@ -2731,13 +2731,13 @@ var nude_array = [
 
 	{
 		"offset" :  "135" ,
-		"description" : "\"A woman's cleavage\"",
+		"description" : "\"a woman's cleavage\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test55.png"
 	}, 
 
 	{
 		"offset" :  "135" ,
-		"description" : "\"A woman's cleavage\"",
+		"description" : "\"a woman's cleavage\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test55.png"
 	}, 
 
@@ -2755,37 +2755,37 @@ var nude_array = [
 
 	{
 		"offset" :  "130" ,
-		"description" : "\"This is the lower back of a person, along with the palms of his hands\"",
+		"description" : "\"this is the lower back of a person, along with the palms of his hands\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test53.png"
 	}, 
 
 	{
 		"offset" :  "130" ,
-		"description" : "\"This is the lower back of a person, along with the palms of his hands\"",
+		"description" : "\"this is the lower back of a person, along with the palms of his hands\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test53.png"
 	}, 
 
 	{
 		"offset" :  "127.5" ,
-		"description" : "\"This is a picture of someone's back and elbows\"",
+		"description" : "\"this is a picture of someone's back and elbows\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test52.png"
 	}, 
 
 	{
 		"offset" :  "127.5" ,
-		"description" : "\"This is a picture of someone's back and elbows\"",
+		"description" : "\"this is a picture of someone's back and elbows\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test52.png"
 	}, 
 
 	{
 		"offset" :  "125" ,
-		"description" : "\"This is the back of a human and the back of his upper arms\"",
+		"description" : "\"this is the back of a human and the back of his upper arms\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test51.png"
 	}, 
 
 	{
 		"offset" :  "125" ,
-		"description" : "\"This is the back of a human and the back of his upper arms\"",
+		"description" : "\"this is the back of a human and the back of his upper arms\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test51.png"
 	}, 
 
@@ -2815,13 +2815,13 @@ var nude_array = [
 
 	{
 		"offset" :  "117.5" ,
-		"description" : "\"This is the back and left arm of a human\"",
+		"description" : "\"this is the back and left arm of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test48.png"
 	}, 
 
 	{
 		"offset" :  "117.5" ,
-		"description" : "\"This is the back and left arm of a human\"",
+		"description" : "\"this is the back and left arm of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test48.png"
 	}, 
 
@@ -2839,25 +2839,25 @@ var nude_array = [
 
 	{
 		"offset" :  "112.5" ,
-		"description" : "\"BARE BODY OF MEN\"",
+		"description" : "\"bare body of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test46.png"
 	}, 
 
 	{
 		"offset" :  "112.5" ,
-		"description" : "\"BARE BODY OF MEN\"",
+		"description" : "\"bare body of men\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test46.png"
 	}, 
 
 	{
 		"offset" :  "110" ,
-		"description" : "\"This is the shaved chest of a man and his biceps\"",
+		"description" : "\"this is the shaved chest of a man and his biceps\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test45.png"
 	}, 
 
 	{
 		"offset" :  "110" ,
-		"description" : "\"This is the shaved chest of a man and his biceps\"",
+		"description" : "\"this is the shaved chest of a man and his biceps\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test45.png"
 	}, 
 
@@ -2911,13 +2911,13 @@ var nude_array = [
 
 	{
 		"offset" :  "97.5" ,
-		"description" : "\"This is the abdomen of a person and parts of his arms\"",
+		"description" : "\"this is the abdomen of a person and parts of his arms\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test40.png"
 	}, 
 
 	{
 		"offset" :  "97.5" ,
-		"description" : "\"This is the abdomen of a person and parts of his arms\"",
+		"description" : "\"this is the abdomen of a person and parts of his arms\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test40.png"
 	}, 
 
@@ -3007,13 +3007,13 @@ var nude_array = [
 
 	{
 		"offset" :  "77.5" ,
-		"description" : "\"This is the upper back of a human\"",
+		"description" : "\"this is the upper back of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test32.png"
 	}, 
 
 	{
 		"offset" :  "77.5" ,
-		"description" : "\"This is the upper back of a human\"",
+		"description" : "\"this is the upper back of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test32.png"
 	}, 
 
@@ -3055,37 +3055,37 @@ var nude_array = [
 
 	{
 		"offset" :  "67.5" ,
-		"description" : "\"This is the upper back of a man, near his shoulders\"",
+		"description" : "\"this is the upper back of a man, near his shoulders\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test28.png"
 	}, 
 
 	{
 		"offset" :  "67.5" ,
-		"description" : "\"This is the upper back of a man, near his shoulders\"",
+		"description" : "\"this is the upper back of a man, near his shoulders\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test28.png"
 	}, 
 
 	{
 		"offset" :  "65" ,
-		"description" : "\"This is possibly the back, near the upper shoulder, of a human, with some hair\"",
+		"description" : "\"this is possibly the back, near the upper shoulder, of a human, with some hair\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test27.png"
 	}, 
 
 	{
 		"offset" :  "65" ,
-		"description" : "\"This is possibly the back, near the upper shoulder, of a human, with some hair\"",
+		"description" : "\"this is possibly the back, near the upper shoulder, of a human, with some hair\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test27.png"
 	}, 
 
 	{
 		"offset" :  "62.5" ,
-		"description" : "\"A man's hairy chest\"",
+		"description" : "\"a man's hairy chest\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test26.png"
 	}, 
 
 	{
 		"offset" :  "62.5" ,
-		"description" : "\"A man's hairy chest\"",
+		"description" : "\"a man's hairy chest\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test26.png"
 	}, 
 
@@ -3139,37 +3139,37 @@ var nude_array = [
 
 	{
 		"offset" :  "50" ,
-		"description" : "\"This is the neck and part of the lower chin of a person\"",
+		"description" : "\"this is the neck and part of the lower chin of a person\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test21.png"
 	}, 
 
 	{
 		"offset" :  "50" ,
-		"description" : "\"This is the neck and part of the lower chin of a person\"",
+		"description" : "\"this is the neck and part of the lower chin of a person\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test21.png"
 	}, 
 
 	{
 		"offset" :  "47.5" ,
-		"description" : "\"This is the neck and stubble on a man's chin\"",
+		"description" : "\"this is the neck and stubble on a man's chin\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test20.png"
 	}, 
 
 	{
 		"offset" :  "47.5" ,
-		"description" : "\"This is the neck and stubble on a man's chin\"",
+		"description" : "\"this is the neck and stubble on a man's chin\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test20.png"
 	}, 
 
 	{
 		"offset" :  "45" ,
-		"description" : "\"This is the tattooed back of a human's head\"",
+		"description" : "\"this is the tattooed back of a human's head\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test19.png"
 	}, 
 
 	{
 		"offset" :  "45" ,
-		"description" : "\"This is the tattooed back of a human's head\"",
+		"description" : "\"this is the tattooed back of a human's head\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test19.png"
 	}, 
 
@@ -3199,85 +3199,85 @@ var nude_array = [
 
 	{
 		"offset" :  "37.5" ,
-		"description" : "\"A man's sweaty face and chapped lips\"",
+		"description" : "\"a man's sweaty face and chapped lips\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test16.png"
 	}, 
 
 	{
 		"offset" :  "37.5" ,
-		"description" : "\"A man's sweaty face and chapped lips\"",
+		"description" : "\"a man's sweaty face and chapped lips\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test16.png"
 	}, 
 
 	{
 		"offset" :  "35" ,
-		"description" : "\"HAND\"",
+		"description" : "\"hand\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test15.png"
 	}, 
 
 	{
 		"offset" :  "35" ,
-		"description" : "\"HAND\"",
+		"description" : "\"hand\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test15.png"
 	}, 
 
 	{
 		"offset" :  "32.5" ,
-		"description" : "\"This is the area between the nose and upper lip of the human face\"",
+		"description" : "\"this is the area between the nose and upper lip of the human face\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test14.png"
 	}, 
 
 	{
 		"offset" :  "32.5" ,
-		"description" : "\"This is the area between the nose and upper lip of the human face\"",
+		"description" : "\"this is the area between the nose and upper lip of the human face\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test14.png"
 	}, 
 
 	{
 		"offset" :  "30" ,
-		"description" : "\"This is the nose, cheeks, and right ear of a human\"",
+		"description" : "\"this is the nose, cheeks, and right ear of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test13.png"
 	}, 
 
 	{
 		"offset" :  "30" ,
-		"description" : "\"This is the nose, cheeks, and right ear of a human\"",
+		"description" : "\"this is the nose, cheeks, and right ear of a human\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test13.png"
 	}, 
 
 	{
 		"offset" :  "27.5" ,
-		"description" : "\"profile pic. Nose, ears\"",
+		"description" : "\"profile pic. nose, ears\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test12.png"
 	}, 
 
 	{
 		"offset" :  "27.5" ,
-		"description" : "\"profile pic. Nose, ears\"",
+		"description" : "\"profile pic. nose, ears\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test12.png"
 	}, 
 
 	{
 		"offset" :  "25" ,
-		"description" : "\"This is the nose-level of a human face\"",
+		"description" : "\"this is the nose-level of a human face\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test11.png"
 	}, 
 
 	{
 		"offset" :  "25" ,
-		"description" : "\"This is the nose-level of a human face\"",
+		"description" : "\"this is the nose-level of a human face\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test11.png"
 	}, 
 
 	{
 		"offset" :  "22.5" ,
-		"description" : "\"EYES\"",
+		"description" : "\"eyes\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test10.png"
 	}, 
 
 	{
 		"offset" :  "22.5" ,
-		"description" : "\"EYES\"",
+		"description" : "\"eyes\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test10.png"
 	}, 
 
@@ -3295,13 +3295,13 @@ var nude_array = [
 
 	{
 		"offset" :  "17.5" ,
-		"description" : "\"These are the eyebrows of a human and his left ear\"",
+		"description" : "\"these are the eyebrows of a human and his left ear\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test08.png"
 	}, 
 
 	{
 		"offset" :  "17.5" ,
-		"description" : "\"These are the eyebrows of a human and his left ear\"",
+		"description" : "\"these are the eyebrows of a human and his left ear\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test08.png"
 	}, 
 
@@ -3331,13 +3331,13 @@ var nude_array = [
 
 	{
 		"offset" :  "10" ,
-		"description" : "\"Forehead, bald man\"",
+		"description" : "\"forehead, bald man\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test05.png"
 	}, 
 
 	{
 		"offset" :  "10" ,
-		"description" : "\"Forehead, bald man\"",
+		"description" : "\"forehead, bald man\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test05.png"
 	}, 
 
@@ -3355,37 +3355,37 @@ var nude_array = [
 
 	{
 		"offset" :  "5" ,
-		"description" : "\"This is the top of someone's bald head\"",
+		"description" : "\"this is the top of someone's bald head\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test03.png"
 	}, 
 
 	{
 		"offset" :  "5" ,
-		"description" : "\"This is the top of someone's bald head\"",
+		"description" : "\"this is the top of someone's bald head\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test03.png"
 	}, 
 
 	{
 		"offset" :  "2.5" ,
-		"description" : "\"This has to be a glitch\"",
+		"description" : "\"this has to be a glitch\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test02.png"
 	}, 
 
 	{
 		"offset" :   "2.5",
-		"description" : "\"This has to be a glitch\"",
+		"description" : "\"this has to be a glitch\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test02.png"
 	}, 
 
 	{
 		"offset" :  "0" ,
-		"description" : "\"Man's shaved head\"",
+		"description" : "\"man's shaved head\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test01.png"
 	}, 
 
 	{
 		"offset" : "0"  ,
-		"description" : "\"Man's shaved head\"",
+		"description" : "\"man's shaved head\"",
 		"url" : "https://s3.amazonaws.com/Model_images/test01.png"
 	}, 
 
